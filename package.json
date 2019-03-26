@@ -1,0 +1,22 @@
+{
+  "name": "composite_playground",
+  "version": "1.0.0",
+  "description": "A playground of composite UI elements being streamed in simultaneously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Dobson",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.6",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
